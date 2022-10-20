@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  background-size: cover;
+}
+
+.page-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+}
+
+.prime-image {
+  width: 100%;
+  height: 30%;
+}
+
+.category-container {
+  background-color: black;
+  height: 70%;
+  padding: 2%;
+}
+
+.category-heading {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
